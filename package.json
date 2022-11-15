@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gtts": "^0.2.1",
+    "onoff": "^6.0.3",
+    "play-sound": "^1.1.5",
+    "speaker": "^0.5.4"
+  }
+}
